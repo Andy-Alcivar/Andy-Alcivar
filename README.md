@@ -5,7 +5,7 @@
 
 - 🤠 I´m 22 years old
 
-- 🇪🇨 I´m from Ecuador
+- ✅ I´m from Ecuador
   
 - 🌱 I’m currently learning **FreeCodeCamp, Youtube, Official Documentation**
 
