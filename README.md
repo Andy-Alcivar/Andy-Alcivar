@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andy-alcivar" alt="andy-alcivar" /></a> </p>
 
+- 🤠 I´m 22 years old
+
+- 🇪🇨 I´m from Ecuador
+  
 - 🌱 I’m currently learning **FreeCodeCamp, Youtube, Official Documentation**
 
 - 👯 I’m looking to collaborate on [Grow It - Asesoría Estrategica en Transformación Digital](https://growit.com.do/)
