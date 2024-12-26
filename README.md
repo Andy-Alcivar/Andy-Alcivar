@@ -27,7 +27,7 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-<a href="https://www.freecodecamp.org/certification/ALCIVAR-MADRID-ANDY/responsive-web-design" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU=w240-h480-rw" alt="ALCIVAR-MADRID-ANDY" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/certification/ALCIVAR-MADRID-ANDY/responsive-web-design" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU=w240-h480-rw" alt="ALCIVAR-MADRID-ANDY" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
